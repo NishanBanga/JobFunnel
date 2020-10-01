@@ -24,7 +24,7 @@ pip install git+https://github.com/PaulMcInnis/JobFunnel.git
 # Usage
 By performing regular scraping and reviewing, you can cut through the noise of even the busiest job markets.
 
-## Configure
+## Configure the whole system.
 You can search for jobs with YAML configuration files or by passing command arguments.
 
 Download the demo [settings.yaml][demo_yaml] by running the below command:
